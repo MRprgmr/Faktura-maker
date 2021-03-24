@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="01">
+    <file>icon.ico</file>
+    <file>list.png</file>
+    <file>xml.png</file>
+    <file>delete.png</file>
+    <file>plus.png</file>
+    <file>search_icon1.png</file>
+  </qresource>
+  <qresource prefix="02">
+    <file>drop_up.png</file>
+    <file>return.png</file>
+    <file>add.png</file>
+    <file>cancel.png</file>
+    <file>drop_down.png</file>
+  </qresource>
+</RCC>
